@@ -1,0 +1,5 @@
+[global]
+port=7878
+
+[global.databases]
+pg_db = { url = "postgres://iosmanthus:postgres@localhost/iosmanthus_db" }
